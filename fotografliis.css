@@ -1,0 +1,66 @@
+body {
+
+  color: chartreuse;
+  background-color: rgb(15, 85, 15);
+  left: 25%;
+  position: absolute;
+   }
+
+
+h1 {
+  height:50%;
+  width:50%;
+  color: chartreuse;
+  background-color: blue;
+  left: 25%;
+  position: relative;
+   }
+   
+.container 
+{
+  background-color:red;
+  width: 500px;
+  height:500px;
+  align-content: center;
+  border: 3px solid green;
+  border-radius: 100%;
+  positon: relative;
+  }
+
+ div 
+ {
+  height:50%;
+  width:50%;
+  top:25%;
+  left: 25%;
+  right: 25%;
+ background-color:blue;
+ border-radius: 20%;
+ position: relative;
+}
+
+
+img
+{
+  left: 1px;
+  top: 38px;
+  height: 90%;
+  width: 90%;
+    background-color: blue;
+    border-radius: 100%;
+    align-content: center;
+    position: relative;
+}
+  
+  
+
+p 
+{
+  height:50%;
+  width:50%;
+  color: chartreuse;
+  background-color: blue;
+  left: 25%;
+  position: relative;
+  display: outline;
+   }
